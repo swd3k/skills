@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="swd3k Skills — agent skills for desktop, programming, UI, and web design" width="100%">
+  <img src="docs/banner.png" alt="swd3k Skills — agent skills for desktop, programming, UI, and web design" width="100%">
 </p>
 
 <br>
@@ -261,7 +261,7 @@ skills/
 ├── README.md
 ├── LICENSE
 ├── docs/
-│   └── banner.svg
+│   └── banner.png
 └── agent-skills/
     ├── desktop-apps/
     ├── programming/
